@@ -1,0 +1,40 @@
+body{
+  background-color: #434e52;
+}
+
+h1{
+  font-size: 7rem;
+  color: #05dfd7;
+  text-align: center;
+  padding: 2rem;
+  font-family: 'Lobster';
+}
+
+.namePlayer{
+
+  color: #05dfd7;
+  font-size: 2rem;
+  font-family: 'Comic Neue', 'cursive';
+
+
+}
+
+.firstPlayer{
+  padding-right: 40px;
+}
+
+.SecondPlayer{
+  padding-left: 40px; ;
+}
+
+.footer{
+  margin-top: 5rem;
+}
+
+#img1{
+  width: 200px;
+}
+
+#img2{
+  width: 200px;
+}
